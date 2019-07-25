@@ -1,0 +1,11 @@
+C:\PROJELER\JavaMotoSiklet\JavaMotoSiklet\bin\Debug\JavaMotoSiklet.exe.config
+C:\PROJELER\JavaMotoSiklet\JavaMotoSiklet\bin\Debug\JavaMotoSiklet.exe
+C:\PROJELER\JavaMotoSiklet\JavaMotoSiklet\bin\Debug\JavaMotoSiklet.pdb
+C:\PROJELER\JavaMotoSiklet\JavaMotoSiklet\obj\Debug\JavaMotoSiklet.csprojAssemblyReference.cache
+C:\PROJELER\JavaMotoSiklet\JavaMotoSiklet\obj\Debug\JavaMotoSiklet.Form1.resources
+C:\PROJELER\JavaMotoSiklet\JavaMotoSiklet\obj\Debug\JavaMotoSiklet.Properties.Resources.resources
+C:\PROJELER\JavaMotoSiklet\JavaMotoSiklet\obj\Debug\JavaMotoSiklet.csproj.GenerateResource.cache
+C:\PROJELER\JavaMotoSiklet\JavaMotoSiklet\obj\Debug\JavaMotoSiklet.csproj.CoreCompileInputs.cache
+C:\PROJELER\JavaMotoSiklet\JavaMotoSiklet\obj\Debug\JavaMotoSiklet.exe
+C:\PROJELER\JavaMotoSiklet\JavaMotoSiklet\obj\Debug\JavaMotoSiklet.pdb
+C:\PROJELER\JavaMotoSiklet\JavaMotoSiklet\obj\Debug\JavaMotoSiklet.Form2.resources
